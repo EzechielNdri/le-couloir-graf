@@ -1,11 +1,11 @@
-# 📚 Le Couloir GRAF
+ # Le Couloir GRAF
 
 Le Couloir GRAF est une application web conçue pour faciliter l’organisation, la gestion et l’affichage de documents PDF par sections.  
 Elle propose une interface moderne et responsive, développée uniquement avec **HTML, CSS et JavaScript natifs**, sans recours à un framework externe.
 
 ---
 
-## 🚀 Fonctionnalités principales
+## Fonctionnalités principales
 
 - **Organisation par sections** : création et sélection de sections pour classer les documents.
 - **Ajout de PDF** : formulaire dédié avec libellé et tags pour un classement précis.
@@ -17,7 +17,7 @@ Elle propose une interface moderne et responsive, développée uniquement avec *
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **Frontend** : HTML5, CSS3, JavaScript (sans framework)  
 - **Backend** : PHP  
@@ -25,7 +25,7 @@ Elle propose une interface moderne et responsive, développée uniquement avec *
 
 ---
 
-## 📂 Structure du projet
+## Structure du projet
 
 ```
 ├── index.html     # Interface principale
@@ -38,7 +38,7 @@ Elle propose une interface moderne et responsive, développée uniquement avec *
 ```
 
 
-## 🌐 Accès au site
+## Accès au site
 
 Le projet est accessible en ligne à l’adresse suivante :  
 [https://le-couloir-graf.page.gd](https://le-couloir-graf.page.gd)
