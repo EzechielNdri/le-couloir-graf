@@ -25,19 +25,6 @@ Elle propose une interface moderne et responsive, développée uniquement avec *
 
 ---
 
-## Structure du projet
-
-```
-├── index.html     # Interface principale
-├── style.css      # Feuilles de style
-├── script.js      # Logique côté client
-├── script2.js     # Fonctions frontend complémentaires
-├── upload.php     # API d’upload des fichiers
-├── get_files.php  # API de récupération des fichiers
-└── README.md      # Documentation du projet
-```
-
-
 ## Accès au site
 
 Le projet est accessible en ligne à l’adresse suivante :  
